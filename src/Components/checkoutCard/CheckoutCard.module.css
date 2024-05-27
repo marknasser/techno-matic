@@ -1,0 +1,27 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1rem;
+  border-bottom: 1px solid #c87065;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.product_figure {
+  width: 10%;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.product_title {
+  width: 40%;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.product_price {
+  font-size: 1.3rem;
+  color: #c87065;
+  font-weight: 700;
+}

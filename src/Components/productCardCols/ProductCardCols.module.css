@@ -1,0 +1,149 @@
+.product_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  padding: 1rem;
+  gap: 1rem;
+  margin: 1rem 0;
+  /* width: 100%; */
+}
+
+.product_img {
+  width: 100%;
+  position: relative;
+}
+
+.product_status {
+  position: absolute;
+  top: 1.2rem;
+  left: 1.2rem;
+  background-color: #c87065;
+  border-radius: 5px;
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  color: #fff;
+  z-index: 1;
+}
+.product_img img {
+  width: 100%;
+  object-fit: contain;
+}
+.product_details {
+  width: 100%;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.title_rate {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.product_title {
+  font-family: "Bree Serif", serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 80%;
+}
+
+.product_rating {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.product_rating span {
+  font-size: 13px;
+  color: #0000006b;
+  font-weight: 600;
+}
+.product_prices {
+  display: flex;
+  gap: 1rem;
+  position: absolute;
+  top: 1.2rem;
+  right: 1.2rem;
+}
+.product_price {
+  color: #c87065;
+  font-size: 1.5rem;
+  background-color: #efefef95;
+  border-radius: 10px;
+  padding: 0.3rem 0.7rem;
+  z-index: 2;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.actions button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  width: 60px;
+  height: 40px;
+  font-size: 1rem;
+}
+.actions a {
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.quantity button {
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #666;
+}
+
+.buttons {
+  background-color: #f6f6f6;
+  display: flex;
+  align-items: center;
+}
+.buttons svg {
+  color: #666;
+}
+.buttons span {
+  color: #666;
+}
+
+@media screen and (max-width: 800px) {
+  .product_img {
+    width: 90%;
+  }
+  .product_details {
+    align-items: center;
+    width: 90%;
+  }
+  .product_prices {
+    justify-content: center;
+  }
+
+  .actions {
+    width: 60%;
+    justify-content: center;
+  }
+  .actions button {
+    width: 40px !important;
+  }
+  .title_rate {
+    flex-direction: column;
+  }
+  .product_rating span {
+    display: none;
+  }
+}

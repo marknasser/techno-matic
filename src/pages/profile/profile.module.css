@@ -1,0 +1,30 @@
+.profile_container {
+  display: flex;
+  align-items: center;
+  margin-top: 45px;
+  align-items: flex-start;
+}
+
+.active_select {
+  background-color: rgb(200, 112, 101);
+  font-size: 1.7rem;
+  color: #fff;
+}
+
+.not_active_select {
+  font-size: 1.2rem;
+  color: rgb(200, 112, 101);
+}
+
+.profile_content {
+  width: 100%;
+}
+
+@media screen and (max-width: 739px) {
+  .active_select {
+    font-size: 1.2rem;
+  }
+  .not_active_select {
+    font-size: 0.9rem;
+  }
+}

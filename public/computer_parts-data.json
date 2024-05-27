@@ -1,0 +1,1746 @@
+[
+  {
+    "name": "Corsair 4000D Airflow",
+    "rating": 4,
+    "rating_count": 78,
+    "price": 781.25,
+    "color": "Black",
+    "power_supply": null,
+    "side_panel_window": "Tinted Tempered Glass",
+    "external_5.25\"_bays": "0",
+    "internal_3.5\"_bays": "2",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/bc6e987da3fe22c616898d1d7fa3d227.256p.jpg",
+    "id": 1,
+    "category": "case",
+    "discount_percentage": 5,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Corsair 4000D Airflow ATX Mid Tower Case",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/868bab29c5c15febe2878f290eaab305.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/a9440e796201fadb3bcb1bd2ff020492.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/e3b0645d897b49246edbd5c7accb0f6f.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/868bab29c5c15febe2878f290eaab305.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/10ab9ff0167751e8debac96629e554ac.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/8ea3bf721b62712e7d332b90f6df09de.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Corsair",
+      "model": "ATX Mid Tower",
+      "front_Panel_USB": ["USB 3.2 Gen 2 Type-C", "USB 3.2 Gen 1 Type-A"],
+      "maximum_Video_Card_Length": "360 mm / 14.173&quot",
+      "dimensions": [
+        "453 mm x 230 mm x 466 mm",
+        "17.835&quot; x 9.055&quot; x 18.346&quot"
+      ]
+    }
+  },
+  {
+    "name": "Phanteks Eclipse P300A Mesh",
+    "rating": 4,
+    "rating_count": 33,
+    "price": 411.14,
+    "color": "Black",
+    "power_supply": null,
+    "side_panel_window": "Tempered Glass",
+    "external_5.25\"_bays": "0",
+    "internal_3.5\"_bays": "2",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/7c9e187b65ab4b281bc2ca0fe41a9aa7.256p.jpg",
+    "id": 2,
+    "category": "case",
+    "discount_percentage": 2,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Phanteks Eclipse P300A Mesh ATX Mid Tower Case",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/bc6e987da3fe22c616898d1d7fa3d227.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/a9440e796201fadb3bcb1bd2ff020492.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/e3b0645d897b49246edbd5c7accb0f6f.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/868bab29c5c15febe2878f290eaab305.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/10ab9ff0167751e8debac96629e554ac.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/8ea3bf721b62712e7d332b90f6df09de.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Corsair",
+      "model": "ATX Mid Tower",
+      "front_Panel_USB": ["USB 3.2 Gen 2 Type-C", "USB 3.2 Gen 1 Type-A"],
+      "maximum_Video_Card_Length": "360 mm / 14.173&quot",
+      "dimensions": [
+        "453 mm x 230 mm x 466 mm",
+        "17.835&quot; x 9.055&quot; x 18.346&quot"
+      ]
+    }
+  },
+  {
+    "name": "NZXT H510i",
+    "rating": 4,
+    "rating_count": 59,
+    "price": 822.37,
+    "color": "White",
+    "power_supply": null,
+    "side_panel_window": "Tempered Glass",
+    "external_5.25\"_bays": "0",
+    "internal_3.5\"_bays": "2",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/6f63c51bf729ea9d12da08b83e11be22.256p.jpg",
+    "id": 3,
+    "category": "case",
+    "discount_percentage": 10,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "NZXT H510i ATX Mid Tower Case",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/6f63c51bf729ea9d12da08b83e11be22.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/506a4cb1e492f691959d2369480e3ebd.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "NZXT",
+      "model": "ATX Mid Tower",
+      "front_Panel_USB": ["USB 3.2 Gen 2 Type-C", "USB 3.2 Gen 1 Type-A"],
+      "maximum_Video_Card_Length": [
+        "381 mm / 15&quot; With Drive Cages",
+        "381 mm / 15&quot; Without Drive Cages"
+      ],
+      "dimensions": [
+        "428 mm x 210 mm x 460 mm",
+        "16.85&quot; x 8.268&quot; x 18.11&quot"
+      ]
+    }
+  },
+  {
+    "name": "Aerocool Cylon",
+    "rating": 4,
+    "rating_count": 14,
+    "price": 427.59,
+    "color": "Black",
+    "power_supply": null,
+    "side_panel_window": "Acrylic",
+    "external_5.25\"_bays": "0",
+    "internal_3.5\"_bays": "2",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/eb74a9cc69be0689b3f3c855418a38a2.256p.jpg",
+    "id": 4,
+    "category": "case",
+    "discount_percentage": 15,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Aerocool Cylon Mid Tower Case",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/eb74a9cc69be0689b3f3c855418a38a2.256p.jpg",
+      "https://m.media-amazon.com/images/I/31+5ILY0YcL.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "NZXT",
+      "model": "ATX Mid Tower",
+      "front_Panel_USB": ["USB 3.2 Gen 2 Type-C", "USB 3.2 Gen 1 Type-A"],
+      "maximum_Video_Card_Length": [
+        "381 mm / 15&quot; With Drive Cages",
+        "381 mm / 15&quot; Without Drive Cages"
+      ],
+      "dimensions": [
+        "428 mm x 210 mm x 460 mm",
+        "16.85&quot; x 8.268&quot; x 18.11&quot"
+      ]
+    }
+  },
+  {
+    "name": "Lian Li O11D XL-W",
+    "rating": 4,
+    "rating_count": 15,
+    "price": 1809.31,
+    "color": "White / Black",
+    "power_supply": null,
+    "side_panel_window": "Tempered Glass",
+    "external_5.25\"_bays": "0",
+    "internal_3.5\"_bays": "4",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/57e725b91df63c516dcdd1b0314e306a.256p.jpg",
+    "id": 5,
+    "category": "case",
+    "discount_percentage": 20,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Lian Li O11D XL-W Mid Tower Case",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/57e725b91df63c516dcdd1b0314e306a.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/978a88d8e7fb62f3d94c19d0dd890cb3.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/c1190eaa7603d16a64bb56120ccb23ad.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/e2ab4dd5590ed6f65cd2e69780e7ed6c.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/4d5930c42a163d74139d1e5216a78544.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/fcbe602b6187b488317e3e97b41db573.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Lian Li",
+      "model": "ATX Mid Tower",
+      "front_Panel_USB": ["USB 3.2 Gen 2 Type-C", "USB 3.2 Gen 1 Type-A"],
+      "maximum_Video_Card_Length": "446 mm / 17.559&quot",
+      "dimensions": [
+        "471 mm x 285 mm x 513 mm",
+        "18.543&quot; x 11.22&quot; x 20.197&quot"
+      ]
+    }
+  },
+  {
+    "name": "Logitech G502 LIGHTSPEED",
+    "rating": 4,
+    "rating_count": 28,
+    "price": 986.86,
+    "tracking_method": "Optical",
+    "connection_type": "Wireless",
+    "maximum_dpi": "25600",
+    "hand_orientation": "Right",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/688ab5cb5e71622cfe889c082d784cdb.256p.jpg",
+    "id": 6,
+    "category": "mouse",
+    "discount_percentage": 30,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Logitech G502 LIGHTSPEED Wireless Optical Mouse",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/688ab5cb5e71622cfe889c082d784cdb.256p.jpg"
+    ],
+    "manufacturer": "Logitech",
+    "model": "G502 LIGHTSPEED"
+  },
+  {
+    "name": "Corsair HARPOON RGB PRO",
+    "rating": 4,
+    "rating_count": 15,
+    "price": 238.43,
+    "tracking_method": "Optical",
+    "connection_type": "Wired",
+    "maximum_dpi": "12000",
+    "hand_orientation": "Right",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/4ca5b63fecc2a7fc4094c9da2c127ac8.256p.jpg",
+    "id": 7,
+    "category": "mouse",
+    "discount_percentage": 15,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Corsair HARPOON RGB PRO Wired Optical Mouse",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/4ca5b63fecc2a7fc4094c9da2c127ac8.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/ff538ab3c87f9cede5b9b1fd9bdbf37e.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/4a448b55650be1dc22bcdfbd679844d2.256p.jpg"
+    ],
+    "manufacturer": "Corsair",
+    "model": "HARPOON RGB PRO"
+  },
+  {
+    "name": "Razer Basilisk X HyperSpeed",
+    "rating": 4,
+    "rating_count": 12,
+    "price": 437.38,
+    "tracking_method": "Optical",
+    "connection_type": "Wireless",
+    "maximum_dpi": "16000",
+    "hand_orientation": "Right",
+    "color": "Black / Green",
+    "image": "https://m.media-amazon.com/images/I/41oOvmaIzYL.jpg",
+    "id": 8,
+    "category": "mouse",
+    "discount_percentage": 40,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Razer Basilisk X HyperSpeed Wireless Optical Mouse",
+    "thumb-images": [
+      "https://m.media-amazon.com/images/I/41oOvmaIzYL.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/e4827333bffb57dd5103d07f1c144c96.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/208fe0391da7d132db153a9a1ce57adf.256p.jpg"
+    ],
+    "manufacturer": "Razer",
+    "model": "Basilisk X HyperSpeed"
+  },
+  {
+    "name": "SteelSeries Rival 3",
+    "rating": 4,
+    "rating_count": 9,
+    "price": 245.75,
+    "tracking_method": "Optical",
+    "connection_type": "Wired",
+    "maximum_dpi": "8500",
+    "hand_orientation": "Right",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/24c3004e0bf166466ca2e8cf1ab55490.256p.jpg",
+    "id": 9,
+    "category": "mouse",
+    "discount_percentage": 13,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "SteelSeries Rival 3 Wired Optical Mouse",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/24c3004e0bf166466ca2e8cf1ab55490.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/94ed47b620815a1c899a05f30254192c.256p.jpg"
+    ],
+    "manufacturer": "SteelSeries",
+    "model": "Rival 3"
+  },
+  {
+    "name": "Asus P704 ROG CHAKRAM",
+    "rating": 5,
+    "rating_count": 1,
+    "price": 970.41,
+    "tracking_method": "Optical",
+    "connection_type": "Wireless",
+    "maximum_dpi": "16000",
+    "hand_orientation": "Right",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/001f947a6bca968b8791442b6884fb70.256p.jpg",
+    "id": 10,
+    "category": "mouse",
+    "discount_percentage": 15,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Asus P704 ROG CHAKRAM Wireless Optical Mouse",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/001f947a6bca968b8791442b6884fb70.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/56133adea318c8da594c961a70e9251f.256p.jpg"
+    ],
+    "manufacturer": "Asus",
+    "model": "P704 ROG CHAKRAM"
+  },
+  {
+    "name": "Redragon K552",
+    "rating": 4,
+    "rating_count": 62,
+    "price": 246.65,
+    "style": "Gaming",
+    "switch_type": "Outemu Blue",
+    "backlit": "Red",
+    "tenkeyless": true,
+    "connection_type": "Wired",
+    "color": "Black",
+    "image": "https://m.media-amazon.com/images/I/41LA45NiUmL.jpg",
+    "id": 11,
+    "category": "keyboard",
+    "discount_percentage": 8,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Redragon K552 Wired Gaming Keyboard",
+    "thumb-images": [
+      "https://m.media-amazon.com/images/I/41LA45NiUmL.jpg",
+      "https://m.media-amazon.com/images/I/41Yqo5YSjzL.jpg",
+      "https://m.media-amazon.com/images/I/41iehTkmqdL.jpg",
+      "https://m.media-amazon.com/images/I/413FzinBWRL.jpg",
+      "https://m.media-amazon.com/images/I/41Ll1f8Zf4L.jpg",
+      "https://m.media-amazon.com/images/I/41+IaGo+t3L.jpg"
+    ],
+    "manufacturer": "Redragon",
+    "model": "K552",
+    "normal_Keys": 87
+  },
+  {
+    "name": "Logitech G19",
+    "rating": 4,
+    "rating_count": 13,
+    "price": 6489.13,
+    "style": "Standard",
+    "switch_type": null,
+    "backlit": "Multicolor",
+    "tenkeyless": false,
+    "connection_type": "Wired",
+    "color": "Black",
+    "image": "https://m.media-amazon.com/images/I/411-8f8A-tL.jpg",
+    "id": 12,
+    "category": "keyboard",
+    "discount_percentage": 40,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Logitech G19 Wired Standard Keyboard",
+    "thumb-images": [
+      "https://m.media-amazon.com/images/I/411-8f8A-tL.jpg",
+      "https://m.media-amazon.com/images/I/31X7gH0JgYL.jpg"
+    ],
+    "manufacturer": "Logitech",
+    "model": "G19",
+    "normal_Keys": 104
+  },
+  {
+    "name": "Tecware Phantom RGB",
+    "rating": 5,
+    "rating_count": 7,
+    "price": 328.9,
+    "style": "Gaming",
+    "switch_type": "Outemu Red",
+    "backlit": "RGB",
+    "tenkeyless": true,
+    "connection_type": "Wired",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/bcb15a0e2da50d090f9795d21ab49842.256p.jpg",
+    "id": 13,
+    "category": "keyboard",
+    "discount_percentage": 10,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Tecware Phantom RGB Wired Gaming Keyboard",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/bcb15a0e2da50d090f9795d21ab49842.256p.jpg"
+    ],
+    "manufacturer": "Tecware",
+    "model": "Phantom RGB",
+    "normal_Keys": 87
+  },
+  {
+    "name": "Corsair K100 RGB",
+    "rating": 5,
+    "rating_count": 2,
+    "price": 1521.45,
+    "style": "Gaming",
+    "switch_type": "Cherry OPX",
+    "backlit": "RGB",
+    "tenkeyless": false,
+    "connection_type": "Wired",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/ae1d907d41a3e8795673075ec18e30b8.256p.jpg",
+    "id": 14,
+    "category": "keyboard",
+    "discount_percentage": 50,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Corsair K100 RGB Wired Gaming Keyboard",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/ae1d907d41a3e8795673075ec18e30b8.256p.jpg"
+    ],
+    "manufacturer": "Corsair",
+    "model": "K100 RGB",
+    "normal_Keys": 87
+  },
+  {
+    "name": "SteelSeries Apex 7 TKL",
+    "rating": 4,
+    "rating_count": 10,
+    "price": 1027.98,
+    "style": "Gaming",
+    "switch_type": "SteelSeries QX2 Red",
+    "backlit": "RGB",
+    "tenkeyless": true,
+    "connection_type": "Wired",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/d5fdc5940b7a500341cfdc608fe2ebfb.256p.jpg",
+    "id": 15,
+    "category": "keyboard",
+    "discount_percentage": 20,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "SteelSeries Apex 7 TKL RGB Wired Gaming Keyboard",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/d5fdc5940b7a500341cfdc608fe2ebfb.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/8c7eaf07bb6b9390a53be83c05782f0d.256p.jpg",
+      "https://m.media-amazon.com/images/I/41weP2riORL.jpg",
+      "https://m.media-amazon.com/images/I/318UIKU5qGL.jpg",
+      "https://m.media-amazon.com/images/I/31OKzfyOnlL.jpg"
+    ],
+    "manufacturer": "SteelSeries",
+    "model": "Apex 7 TKL",
+    "normal_Keys": 87
+  },
+  {
+    "name": "Asus ROG Swift PG65UQ",
+    "rating": 0,
+    "rating_count": 0,
+    "price": 98855.78,
+    "screen_size": "64.5\"",
+    "resolution": "3840 x 2160",
+    "refresh_rate": "144 Hz",
+    "response_time_(g2g)": "4 ms",
+    "panel_type": "VA",
+    "aspect_ratio": "16:9",
+    "image": "https://m.media-amazon.com/images/I/51pZL0YMf9L.jpg",
+    "id": 16,
+    "category": "monitor",
+    "discount_percentage": 19,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Asus ROG Swift PG65UQ 64.5\u0022 3840 x 2160 144 Hz Monitor",
+    "thumb-images": ["https://m.media-amazon.com/images/I/51pZL0YMf9L.jpg"],
+    "specifications": {
+      "manufacturer": "Asus",
+      "model": "ROG Swift PG65UQ",
+      "Widescreen": "Yes",
+      "Built-in Speakers": "Yes",
+      "Viewing Angle": "178° H x 178° V",
+      "Inputs": ["4 x HDMI", "1 x DisplayPort"]
+    }
+  },
+  {
+    "name": "Samsung Odyssey G9",
+    "rating": 4,
+    "rating_count": 4,
+    "price": 16170.35,
+    "screen_size": "49.0\"",
+    "resolution": "5120 x 1440",
+    "refresh_rate": "240 Hz",
+    "response_time_(g2g)": "1 ms",
+    "panel_type": "VA",
+    "aspect_ratio": "32:9",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/1c3449001f4d13277a4b39a59ddf68f7.256p.jpg",
+    "id": 17,
+    "category": "monitor",
+    "discount_percentage": 7,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Samsung Odyssey G9 49.0\u0022 5120 x 1440 240 Hz Curved Monitor",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/1c3449001f4d13277a4b39a59ddf68f7.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Samsung",
+      "model": "Odyssey G9",
+      "Widescreen": "Yes",
+      "Built-in Speakers": "No",
+      "Viewing Angle": "178° H x 178° V",
+      "Inputs": ["1 x HDMI", "2 x DisplayPort"]
+    }
+  },
+  {
+    "name": "LG 27GN950-B",
+    "rating": 4,
+    "rating_count": 12,
+    "price": 6990.74,
+    "screen_size": "27.0\"",
+    "resolution": "3840 x 2160",
+    "refresh_rate": "144 Hz",
+    "response_time_(g2g)": "1 ms",
+    "panel_type": "IPS",
+    "aspect_ratio": "16:9",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/0f06943449a7f045280437ce6c0c1a0a.256p.jpg",
+    "id": 18,
+    "category": "monitor",
+    "discount_percentage": 18,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "LG 27GN950\u002DB 27.0\u0022 3840 x 2160 144 Hz Monitor",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/0f06943449a7f045280437ce6c0c1a0a.256p.jpg",
+      "https://m.media-amazon.com/images/I/31K+Ueax5YL.jpg",
+      "https://m.media-amazon.com/images/I/41ThpjpQIkL.jpg",
+      "https://m.media-amazon.com/images/I/414ti1zrBEL.jpg",
+      "https://m.media-amazon.com/images/I/415d7eCbj+L.jpg",
+      "https://m.media-amazon.com/images/I/310DhJO7GkL.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "LG",
+      "model": "27GN950-B",
+      "Widescreen": "Yes",
+      "Built-in Speakers": "No",
+      "Viewing Angle": "178° H x 178° V",
+      "Inputs": ["2 x HDMI", "1 x DisplayPort"]
+    }
+  },
+  {
+    "name": "MSI Optix MPG341CQR",
+    "rating": 4,
+    "rating_count": 7,
+    "price": 5345.84,
+    "screen_size": "34.0\"",
+    "resolution": "3440 x 1440",
+    "refresh_rate": "144 Hz",
+    "response_time_(g2g)": "1 ms",
+    "panel_type": "VA",
+    "aspect_ratio": "21:9",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/f9ec6024f886b6c15297d1b893290efb.256p.jpg",
+    "id": 19,
+    "category": "monitor",
+    "discount_percentage": 10,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "MSI Optix MPG341CQR 34.0\u0022 3440 x 1440 144 Hz Curved Monitor",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/f9ec6024f886b6c15297d1b893290efb.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "MSI",
+      "model": "Optix MPG341CQR",
+      "Widescreen": "Yes",
+      "Built-in Speakers": "No",
+      "Viewing Angle": "178° H x 178° V",
+      "Inputs": ["2 x HDMI", "1 x DisplayPort"]
+    }
+  },
+  {
+    "name": "Acer VG270 Pbiip",
+    "rating": 4,
+    "rating_count": 4,
+    "price": 1636.68,
+    "screen_size": "27.0\"",
+    "resolution": "1920 x 1080",
+    "refresh_rate": "144 Hz",
+    "response_time_(g2g)": null,
+    "panel_type": "IPS",
+    "aspect_ratio": "16:9",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/d9ae47f18f889c4865581c302a2e4dea.256p.jpg",
+    "id": 20,
+    "category": "monitor",
+    "discount_percentage": 35,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Acer VG270 Pbiip 27.0\u0022 1920 x 1080 144 Hz Monitor",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/d9ae47f18f889c4865581c302a2e4dea.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Acer",
+      "model": "VG270 Pbiip",
+      "Widescreen": "Yes",
+      "Built-in Speakers": "No",
+      "Viewing Angle": "178° H x 178° V",
+      "Inputs": ["2 x HDMI", "1 x DisplayPort"]
+    }
+  },
+  {
+    "name": "Logitech Z200",
+    "rating": 4,
+    "rating_count": 70,
+    "price": 205.53,
+    "configuration": "2.0",
+    "total_wattage": "0 W",
+    "frequency_response": "20 Hz - 20 kHz",
+    "color": null,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/044e21f178b0ad10f69fbc76b6ac013e.256p.jpg",
+    "id": 21,
+    "category": "speaker",
+    "discount_percentage": 5,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Logitech Z200 10 W Speakers",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/044e21f178b0ad10f69fbc76b6ac013e.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Logitech",
+      "model": "Z200",
+      "Power (Front, Each)": "5 W",
+      "features": [
+        "Rich stereo sound: Two 2; 5-&quot;drivers per speaker pump out 10 watts peak power for clear stereo sound with added deep bass",
+        "Use with multiple devices: Plug in two devices at the same time, like your smartphone plus tablet or laptop, via a 3; 5mm audio input plus auxiliary line",
+        "Fingertip controls: On-speaker volume, power and bass controls for quick and easy audio adjustments",
+        "Handy headphone jack: Listen to music, movies and games in total privacy",
+        "High-quality acoustics: Tested and tuned at Logitech&#x27;s state-of-the art audio labs"
+      ]
+    }
+  },
+  {
+    "name": "Creative Labs Pebble 2.0",
+    "rating": 4,
+    "rating_count": 13,
+    "price": 207.67,
+    "configuration": "2.0",
+    "total_wattage": "4.4 W",
+    "frequency_response": "100 Hz - 17 kHz",
+    "color": "White",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/a02af64b3b2cf5af614179a132aa367c.256p.jpg",
+    "id": 22,
+    "category": "speaker",
+    "discount_percentage": 40,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Creative Labs Pebble 2.0 4.4 W Speakers",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/a02af64b3b2cf5af614179a132aa367c.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Creative Labs",
+      "model": "Pebble 2.0",
+      "Power (Front, Each)": "2.2 W"
+    }
+  },
+  {
+    "name": "Razer Leviathan",
+    "rating": 4,
+    "rating_count": 6,
+    "price": 1513.23,
+    "configuration": "5.1",
+    "total_wattage": "60 W",
+    "frequency_response": "180 Hz - 20 kHz",
+    "color": null,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/1d97e880ddb8ce5e99226c9be6905c80.256p.jpg",
+    "id": 23,
+    "category": "speaker",
+    "discount_percentage": 20,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Razer Leviathan 60 W 5.1\u002DChannel Speakers",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/1d97e880ddb8ce5e99226c9be6905c80.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/18cfc5b2beec0d409bb0dd1aba444947.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/59b6e2f48c7767802a064a0efe751ac1.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/2bd44390aa42127025ace9d2046bea2f.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/5b28043b7a9d4752bd94f12d0703ef4f.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/ed4cc3bba5f02156e96681fd22b99c81.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Razer",
+      "model": "Leviathan",
+      "Power (Front, Each)": "15 W",
+      "features": [
+        "Space saving design for versatility",
+        "Multiple connection methods via analog, optical or Bluetooth v4.0 aptX",
+        "Adjustable tilt angles (0 degree,15 degrees,18 degrees) for optimal sound",
+        "3 preset equalizer modes tuned for gaming, music and movies"
+      ]
+    }
+  },
+  {
+    "name": "Bose Companion 2 Series III",
+    "rating": 4,
+    "rating_count": 30,
+    "price": 814.23,
+    "configuration": "2.0",
+    "total_wattage": "0 W",
+    "frequency_response": null,
+    "color": null,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/70df7ebc95e71812189987cff42ab4e6.256p.jpg",
+    "id": 24,
+    "category": "speaker",
+    "discount_percentage": 15,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Bose Companion 2 Series III Speakers",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/70df7ebc95e71812189987cff42ab4e6.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/62a5c82bb1bc73349e7bb8845f37f6fa.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/9732d963a1ad787518702b668cea1202.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/e0426a10622d0f5715d0267b85b0ec7f.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Bose",
+      "model": "Companion 2 Series III",
+      "Power (Front, Each)": "15 W",
+      "features": [
+        "Our most affordable computer speaker system puts Bose sound within reach",
+        "A performance upgrade over most conventional computer speakers",
+        "Contemporary, elegant appearance",
+        "Dual inputs for easy connection to computer and additional audio sources",
+        "Proprietary TrueSpace stereo digital processing circuitry creates a wide two-channel soundstage engineered specifically for listening at your computer.",
+        "Ported cabinet design provides fuller music and deeper movie/gaming special effects from a small enclosure."
+      ]
+    }
+  },
+  {
+    "name": "Edifier R980T",
+    "rating": 5,
+    "rating_count": 1,
+    "price": 575.55,
+    "configuration": "2.0",
+    "total_wattage": "24 W",
+    "frequency_response": "70 Hz - 20 kHz",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/e78aa7b2daf00a2257f164fcf916d598.256p.jpg",
+    "id": 25,
+    "category": "speaker",
+    "discount_percentage": 17,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Edifier R980T 24 W Speakers",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/e78aa7b2daf00a2257f164fcf916d598.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/4d2e541df64c4ed18d1ef66248f3d67a.256p.jpg",
+      "https://m.media-amazon.com/images/I/315OJfDIW6L.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Edifier",
+      "model": "R980T",
+      "Power (Front, Each)": "12 W"
+    }
+  },
+  {
+    "name": "Asus ROG Strix",
+    "rating": 3,
+    "rating_count": 2,
+    "price": 1562.57,
+    "form_factor": "ATX",
+    "efficiency_rating": "80+ Gold",
+    "wattage": "850 W",
+    "modular": "Full",
+    "color": "White",
+    "image": "https://m.media-amazon.com/images/I/41E5-YifLvL.jpg",
+    "id": 26,
+    "category": "powerSupply",
+    "discount_percentage": 20,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Asus ROG Strix 850 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "thumb-images": [
+      "https://m.media-amazon.com/images/I/41E5-YifLvL.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/19cf9b2fdda8760cb9d0f4119e780b9a.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Asus",
+      "model": "ROG Strix",
+      "Length": "160 mm"
+    }
+  },
+  {
+    "name": "MSI MPG A650GF",
+    "rating": 5,
+    "rating_count": 4,
+    "price": 662.81,
+    "form_factor": "ATX",
+    "efficiency_rating": "80+ Gold",
+    "wattage": "650 W",
+    "modular": "Full",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/69c7679bbfccb706c80f41b452d36f54.256p.jpg",
+    "id": 27,
+    "category": "powerSupply",
+    "discount_percentage": 25,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "MSI MPG A650GF 650 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/69c7679bbfccb706c80f41b452d36f54.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/304c409dc991a5bc733316ceac29f77e.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "MSI",
+      "model": "MPG A650GF",
+      "Length": "160 mm"
+    }
+  },
+  {
+    "name": "EVGA 100-W1-0500-KR",
+    "rating": 4,
+    "rating_count": 178,
+    "price": 287.78,
+    "form_factor": "ATX",
+    "efficiency_rating": "80+",
+    "wattage": "500 W",
+    "modular": false,
+    "color": null,
+    "image": "https://m.media-amazon.com/images/I/41iw-jgJj8L.jpg",
+    "id": 28,
+    "category": "powerSupply",
+    "discount_percentage": 8,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "EVGA 500 W1 500 W 80+ Certified ATX Power Supply",
+    "thumb-images": [
+      "https://m.media-amazon.com/images/I/41iw-jgJj8L.jpg",
+      "https://m.media-amazon.com/images/I/3119BHzm7NL.jpg",
+      "https://m.media-amazon.com/images/I/41T5OeHmOJL.jpg",
+      "https://m.media-amazon.com/images/I/41OrNb0Me-L.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "EVGA",
+      "model": "500 W1",
+      "Length": "139 mm"
+    }
+  },
+  {
+    "name": "SeaSonic FOCUS Plus Gold",
+    "rating": 4,
+    "rating_count": 63,
+    "price": 945.74,
+    "form_factor": "ATX",
+    "efficiency_rating": "80+ Gold",
+    "wattage": "750 W",
+    "modular": "Full",
+    "color": null,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/6a8a616ad8c5c8328c602091299aa18f.256p.jpg",
+    "id": 29,
+    "category": "powerSupply",
+    "discount_percentage": 10,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "SeaSonic FOCUS Plus Gold 1000 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/6a8a616ad8c5c8328c602091299aa18f.256p.jpg",
+      "https://m.media-amazon.com/images/I/51oPZHhzCtL.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "SeaSonic",
+      "model": "FOCUS Plus Gold",
+      "Length": "none"
+    }
+  },
+  {
+    "name": "Cooler Master MWE Gold",
+    "rating": 4,
+    "rating_count": 29,
+    "price": 888.16,
+    "form_factor": "ATX",
+    "efficiency_rating": "80+ Gold",
+    "wattage": "750 W",
+    "modular": "Full",
+    "color": "Black",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41NwUWk0msL.jpg",
+    "id": 30,
+    "category": "powerSupply",
+    "discount_percentage": 32,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Cooler Master MWE Gold 550 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "thumb-images": [
+      "https://images-eu.ssl-images-amazon.com/images/I/41NwUWk0msL.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/41CuIIxetVL.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/41LfHXLXArL.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/51G8TlOd2hL.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/410l-OPEEwL.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/41avfXEGbsL.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Cooler Master",
+      "model": "MWE Gold",
+      "Length": "160 mm"
+    }
+  },
+  {
+    "name": "Asus TUF GAMING X570-PLUS (WI-FI)",
+    "rating": 4,
+    "rating_count": 207,
+    "price": 1587.25,
+    "socket": "AM4",
+    "form_factor": "ATX",
+    "memory_max": "128 GB",
+    "memory_slots": "4",
+    "color": "Black / Gold",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/8d7d0435e8a2af93b5d91a1a5dccd476.256p.jpg",
+    "id": 31,
+    "category": "motherboard",
+    "discount_percentage": 19,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Asus TUF GAMING X570\u002DPLUS (WI\u002DFI) ATX AM4 Motherboard",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/8d7d0435e8a2af93b5d91a1a5dccd476.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/5803a025f18d08a2943e807aa8073ab5.256p.jpg",
+      "https://m.media-amazon.com/images/I/41bH-ULDkUL.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/cfcc8f81e756080252885c26ab92e2a9.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Asus",
+      "model": "TUF GAMING X570-PLUS",
+      "Chipset": "AMD X570"
+    }
+  },
+  {
+    "name": "MSI B450 TOMAHAWK MAX",
+    "rating": 4,
+    "rating_count": 216,
+    "price": 822.04,
+    "socket": "AM4",
+    "form_factor": "ATX",
+    "memory_max": "64 GB",
+    "memory_slots": "4",
+    "color": "Black",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/0a8a0ca77620c63b68fec6323537d50a.256p.jpg",
+    "id": 32,
+    "category": "motherboard",
+    "discount_percentage": 0,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "MSI B450 TOMAHAWK MAX ATX AM4 Motherboard",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/0a8a0ca77620c63b68fec6323537d50a.256p.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/51yFDX7--aL.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/51zH-pBzPZL.jpg",
+      "https://images-eu.ssl-images-amazon.com/images/I/41Kxx%2BnBtCL.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/1332de2507376821ea0a6fe655a401bc.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "MSI",
+      "model": "B450 TOMAHAWK MAX",
+      "Chipset": "AMD B450"
+    }
+  },
+  {
+    "name": "ASRock B450M Pro4",
+    "rating": 4,
+    "rating_count": 123,
+    "price": 633.12,
+    "socket": "AM4",
+    "form_factor": "Micro ATX",
+    "memory_max": "64 GB",
+    "memory_slots": "4",
+    "color": "Black / Silver",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/8f8baff091bfd5ef531c7ddb1a602ca4.256p.jpg",
+    "id": 33,
+    "category": "motherboard",
+    "discount_percentage": 33,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "ASRock B450M Pro4 Micro ATX AM4 Motherboard",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/8f8baff091bfd5ef531c7ddb1a602ca4.256p.jpg",
+      "https://m.media-amazon.com/images/I/51q3-IskvmL.jpg",
+      "https://m.media-amazon.com/images/I/41nx1xTuqoL.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/4d777c54f5b2d0088e796273eab29f1c.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "ASRock",
+      "model": "B450M Pro4",
+      "Chipset": "AMD B450"
+    }
+  },
+  {
+    "name": "Gigabyte B460M DS3H",
+    "rating": 4,
+    "rating_count": 3,
+    "price": 781.25,
+    "socket": "LGA1200",
+    "form_factor": "Micro ATX",
+    "memory_max": "128 GB",
+    "memory_slots": "4",
+    "color": "Black / Silver",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/ed9e6c55c1809ab560fa268f537556d7.256p.jpg",
+    "id": 34,
+    "category": "motherboard",
+    "discount_percentage": 10,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Gigabyte B460M DS3H Micro ATX LGA1200 Motherboard",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/ed9e6c55c1809ab560fa268f537556d7.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/9fd16aea7d76a625ec425d961b351a22.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Gigabyte",
+      "model": "B460M DS3H",
+      "Chipset": "Intel B460"
+    }
+  },
+  {
+    "name": "MSI B550-A PRO",
+    "rating": 4,
+    "rating_count": 53,
+    "price": 1192.47,
+    "socket": "AM4",
+    "form_factor": "ATX",
+    "memory_max": "128 GB",
+    "memory_slots": "4",
+    "color": "Black / Silver",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/662aee2a85bbe3b7e12224e381e57d24.256p.jpg",
+    "id": 35,
+    "category": "motherboard",
+    "discount_percentage": 13,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "MSI B550\u002DA PRO ATX AM4 Motherboard",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/662aee2a85bbe3b7e12224e381e57d24.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "MSI",
+      "model": "B550-A PRO",
+      "Chipset": "AMD B550"
+    }
+  },
+  {
+    "name": "Corsair Vengeance LPX 16 GB",
+    "rating": 4,
+    "rating_count": 338,
+    "price": 731.9,
+    "speed": "DDR4-3200",
+    "modules": "2 x 8GB",
+    "price_/_gb": "$5.562",
+    "color": "Black / Yellow",
+    "first_word_latency": "10 ns",
+    "cas_latency": "16",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/835ab3efad1be13bbe53beef3e3c6f96.256p.jpg",
+    "id": 36,
+    "category": "memory",
+    "discount_percentage": 8,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4\u002D3200 CL16 Memory",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/835ab3efad1be13bbe53beef3e3c6f96.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/fee3ba4d684ea643cc72a1c38f0dbc2f.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/fee3ba4d684ea643cc72a1c38f0dbc2f.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Corsair",
+      "model": "Vengeance LPX",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered"
+    }
+  },
+  {
+    "name": "Team T-FORCE VULCAN Z 16 GB",
+    "rating": 4,
+    "rating_count": 57,
+    "price": 657.8,
+    "speed": "DDR4-3200",
+    "modules": "2 x 8GB",
+    "price_/_gb": "$4.999",
+    "color": "Black",
+    "first_word_latency": "10 ns",
+    "cas_latency": "16",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/96753a64597c28e46bf80ef7064b214b.256p.jpg",
+    "id": 37,
+    "category": "memory",
+    "discount_percentage": 15,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "TEAMGROUP T\u002DForce Vulcan Z 16 GB (2 x 8 GB) DDR4\u002D3200 CL16 Memory",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/96753a64597c28e46bf80ef7064b214b.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "TEAMGROUP6",
+      "model": "T-FORCE VULCAN",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered"
+    }
+  },
+  {
+    "name": "Kingston HyperX Fury 16 GB",
+    "rating": 4,
+    "rating_count": 27,
+    "price": 781.25,
+    "speed": "DDR4-3200",
+    "modules": "2 x 8GB",
+    "price_/_gb": "$5.937",
+    "color": "Black / Silver",
+    "first_word_latency": "10 ns",
+    "cas_latency": "16",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/253be8362d567f55b4ce7672e42a6cb2.256p.jpg",
+    "id": 38,
+    "category": "memory",
+    "discount_percentage": 19,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Kingston HyperX Fury 16 GB (2 x 8 GB) DDR4\u002D3200 CL16 Memory",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/253be8362d567f55b4ce7672e42a6cb2.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/884c7e6353081e31d396b14fae9299ee.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/56180169113398445640a3463ecf9faf.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/62aa6b6afd0a45a7036771b093a2eee0.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Kingston",
+      "model": "HyperX Fury",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered"
+    }
+  },
+  {
+    "name": "Crucial Ballistix 16 GB",
+    "rating": 4,
+    "rating_count": 10,
+    "price": 721.54,
+    "speed": "DDR4-3200",
+    "modules": "2 x 8GB",
+    "price_/_gb": "$5.483",
+    "color": "White",
+    "first_word_latency": "10 ns",
+    "cas_latency": "16",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/aa34b3c28154431c4b8ebd2f90a647e4.256p.jpg",
+    "id": 39,
+    "category": "memory",
+    "discount_percentage": 0,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Crucial Ballistix 16 GB (2 x 8 GB) DDR4\u002D3200 CL16 Memory",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/aa34b3c28154431c4b8ebd2f90a647e4.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Crucial",
+      "model": "Ballistix",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered"
+    }
+  },
+  {
+    "name": "Patriot Viper Steel 16 GB",
+    "rating": 4,
+    "rating_count": 13,
+    "price": 814.14,
+    "speed": "DDR4-3200",
+    "modules": "2 x 8GB",
+    "price_/_gb": "$6.187",
+    "color": "Silver / Black",
+    "first_word_latency": "10 ns",
+    "cas_latency": "16",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/a6d150a1a9e9ad94874551eee42573e4.256p.jpg",
+    "id": 40,
+    "category": "memory",
+    "discount_percentage": 30,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Patriot Viper Steel 16 GB (2 x 8 GB) DDR4\u002D3200 CL16 Memory",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/a6d150a1a9e9ad94874551eee42573e4.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Patriot",
+      "model": "Viper Steel",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered"
+    }
+  },
+  {
+    "name": "Western Digital Blue SN550",
+    "rating": 4,
+    "rating_count": 139,
+    "price": 863.49,
+    "capacity": "1 TB",
+    "price_/_gb": "$0.105",
+    "type": "SSD",
+    "cache": null,
+    "form_factor": "M.2-2280",
+    "interface": "M.2 (M)",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/73be90b182cdb68fe899775fb8fa56ed.256p.jpg",
+    "id": 41,
+    "category": "hardDesk",
+    "discount_percentage": 8,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Western Digital Blue SN550 1 TB M.2\u002D2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/73be90b182cdb68fe899775fb8fa56ed.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Western Digital",
+      "model": "SN550"
+    }
+  },
+  {
+    "name": "Samsung 970 Evo Plus",
+    "rating": 4,
+    "rating_count": 176,
+    "price": 1315.1,
+    "capacity": "1 TB",
+    "price_/_gb": "$0.160",
+    "type": "SSD",
+    "cache": "1024 MB",
+    "form_factor": "M.2-2280",
+    "interface": "M.2 (M)",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/326881d073c1b667bd348893696c690e.256p.jpg",
+    "id": 42,
+    "category": "hardDesk",
+    "discount_percentage": 22,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Samsung 970 Evo Plus 1 TB M.2\u002D2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/326881d073c1b667bd348893696c690e.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Samsung",
+      "model": "970 Evo Plus"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda",
+    "rating": 4,
+    "rating_count": 206,
+    "price": 370.02,
+    "capacity": "1 TB",
+    "price_/_gb": "$0.045",
+    "type": "7200RPM",
+    "cache": "64 MB",
+    "form_factor": "3.5\"",
+    "interface": "SATA 6 Gb/s",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/0f3ec8d968661b3bfc4a7250f78ec8a9.256p.jpg",
+    "id": 43,
+    "category": "hardDesk",
+    "discount_percentage": 10,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Seagate BarraCuda 1 TB 3.5\u0022 7200 RPM Internal Hard Drive",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/0f3ec8d968661b3bfc4a7250f78ec8a9.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/4ee0f1dedcbd932b06cdf6091dc0df7d.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Seagate",
+      "model": "NULL"
+    }
+  },
+  {
+    "name": "Kingston A400",
+    "rating": 4,
+    "rating_count": 98,
+    "price": 287.78,
+    "capacity": "240 GB",
+    "price_/_gb": "$0.146",
+    "type": "SSD",
+    "cache": null,
+    "form_factor": "2.5\"",
+    "interface": "SATA 6 Gb/s",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/97e2bd828644767c8a80b71f8cb14743.256p.jpg",
+    "id": 44,
+    "category": "hardDesk",
+    "discount_percentage": 10,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Kingston A400 240 GB 2.5\u0022 Solid State Drive",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/97e2bd828644767c8a80b71f8cb14743.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Kingston",
+      "model": "A400"
+    }
+  },
+  {
+    "name": "Western Digital Blue SN550",
+    "rating": 4,
+    "rating_count": 84,
+    "price": 493.39,
+    "capacity": "500 GB",
+    "price_/_gb": "$0.120",
+    "type": "SSD",
+    "cache": null,
+    "form_factor": "M.2-2280",
+    "interface": "M.2 (M)",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/73be90b182cdb68fe899775fb8fa56ed.256p.jpg",
+    "id": 45,
+    "category": "hardDesk",
+    "discount_percentage": 5,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Western Digital Blue SN550 500 GB M.2\u002D2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/73be90b182cdb68fe899775fb8fa56ed.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Western",
+      "model": "Digital Blue SN550"
+    }
+  },
+  {
+    "name": "AMD Athlon 200GE",
+    "rating": 4,
+    "rating_count": 14,
+    "price": 863.49,
+    "core_count": "2",
+    "core_clock": "3.2 GHz",
+    "boost_clock": null,
+    "tdp": "35 W",
+    "integrated_graphics": "Radeon Vega 3",
+    "smt": true,
+    "socket": "AM4",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/f55fe8a2443698085e9d8d2997cc3173.256p.jpg",
+    "id": 46,
+    "category": "cpu",
+    "discount_percentage": 5,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "AMD Athlon 200GE 3.2 GHz Dual\u002DCore Processor",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/f55fe8a2443698085e9d8d2997cc3173.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "AMD",
+      "model": "200GE",
+      "Includes_Cooler": "yes",
+      "simultaneous-multithreading": "yes"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 3300X",
+    "rating": 4,
+    "rating_count": 20,
+    "price": 1060.96,
+    "core_count": "4",
+    "core_clock": "3.8 GHz",
+    "boost_clock": "4.3 GHz",
+    "tdp": "65 W",
+    "integrated_graphics": null,
+    "smt": true,
+    "socket": "AM4",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/614673693f9281d17b521cbf52799c68.256p.jpg",
+    "id": 47,
+    "category": "cpu",
+    "discount_percentage": 14,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "AMD Ryzen 3 3300X 3.8 GHz Quad\u002DCore Processor",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/614673693f9281d17b521cbf52799c68.256p.jpg",
+      "https://m.media-amazon.com/images/I/31WJNT2W6RL.jpg",
+      "https://m.media-amazon.com/images/I/41mlBlF7-fL.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "AMD",
+      "model": "3300X",
+      "Includes_Cooler": "yes",
+      "simultaneous-multithreading": "yes"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 2600X",
+    "rating": 4,
+    "rating_count": 217,
+    "price": 1710.61,
+    "core_count": "6",
+    "core_clock": "3.6 GHz",
+    "boost_clock": "4.2 GHz",
+    "tdp": "95 W",
+    "integrated_graphics": null,
+    "smt": true,
+    "socket": "AM4",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/55aea2dd64e2e3a3e3b1d678048d8d76.256p.jpg",
+    "id": 48,
+    "category": "cpu",
+    "discount_percentage": 14,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "AMD Ryzen 5 2600X 3.6 GHz 6\u002DCore Processor",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/55aea2dd64e2e3a3e3b1d678048d8d76.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "AMD",
+      "model": "2600X",
+      "Includes_Cooler": "yes",
+      "simultaneous-multithreading": "yes"
+    }
+  },
+  {
+    "name": "Intel Core i3-9100F",
+    "rating": 4,
+    "rating_count": 23,
+    "price": 1344.62,
+    "core_count": "4",
+    "core_clock": "3.6 GHz",
+    "boost_clock": "4.2 GHz",
+    "tdp": "65 W",
+    "integrated_graphics": null,
+    "smt": false,
+    "socket": "LGA1151",
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/0d74fb44f832ad674549787311aafa0f.256p.jpg",
+    "id": 49,
+    "category": "cpu",
+    "discount_percentage": 8,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Intel Core i3\u002D9100F 3.6 GHz Quad\u002DCore Processor",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/0d74fb44f832ad674549787311aafa0f.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/ac20e6e623892f174cf27f3c11fce5f8.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/04f08a1dee17429cdf0a6021ebe5351d.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "AMD",
+      "model": "i3-9100F",
+      "Includes_Cooler": "yes",
+      "simultaneous-multithreading": "no"
+    }
+  },
+  {
+    "name": "Intel Core i7-10700F",
+    "rating": 5,
+    "rating_count": 2,
+    "price": 2138.29,
+    "core_count": "8",
+    "core_clock": "2.9 GHz",
+    "boost_clock": "4.8 GHz",
+    "tdp": "65 W",
+    "integrated_graphics": null,
+    "smt": true,
+    "socket": "LGA1200",
+    "image": "https://m.media-amazon.com/images/I/41P4d+8jqLL.jpg",
+    "id": 50,
+    "category": "cpu",
+    "discount_percentage": 55,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Intel Core i7\u002D10700F 2.9 GHz 8\u002DCore Processor",
+    "thumb-images": ["https://m.media-amazon.com/images/I/41P4d+8jqLL.jpg"],
+    "specifications": {
+      "manufacturer": "Intel",
+      "model": "i7-10700F",
+      "Includes_Cooler": "yes",
+      "simultaneous-multithreading": "Yes: Hyper-Threading"
+    }
+  },
+  {
+    "name": "Corsair iCUE LINK QX120 RGB Starter Kit 3-Pack",
+    "price": 149.99,
+    "size": 120,
+    "color": "Black",
+    "rpm": [480, 2400],
+    "airflow": [16.44, 63.1],
+    "noise_level": null,
+    "pwm": true,
+    "rating": 4,
+    "rating_count": 78,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/022030846fd2908c85e111d037e80508.256p.jpg",
+    "id": 51,
+    "category": "fan",
+    "discount_percentage": 5,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Corsair iCUE LINK QX120 RGB Starter Kit 63.1 CFM 120 mm Fans 3\u002DPack",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/022030846fd2908c85e111d037e80508.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/bd537d50272019737bb299ab9b75a716.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/a3d3cb90bb0af73e83aa2a6c3952eed3.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/08c31a66e90404ac748e74f1994f669a.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/5bed855e18221791fd0bac40898ce743.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/66725e1a40ed95b6e848c6288f149a65.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Corsair",
+      "model": "iCUE LINK QX120 RGB Starter Kit",
+      "Controller": "USB",
+      "Static_pressure": "3.8 mmH₂O"
+    }
+  },
+  {
+    "name": "ARCTIC F PST",
+    "price": 11.49,
+    "size": 140,
+    "color": "Black",
+    "rpm": [200, 1350],
+    "airflow": 74,
+    "noise_level": null,
+    "pwm": true,
+    "rating": 4,
+    "rating_count": 13,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/9d3413cb8c707b3f7e20f7f0ae10bb48.256p.jpg",
+    "id": 52,
+    "category": "fan",
+    "discount_percentage": 15,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "ARCTIC F PST 74 CFM 140 mm Fan",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/9d3413cb8c707b3f7e20f7f0ae10bb48.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "ARCTIC",
+      "model": "F PST 74 CFM",
+      "Controller": "None",
+      "Static_pressure": "1.6 mmH₂O"
+    }
+  },
+  {
+    "name": "APNX FP2",
+    "price": 19.89,
+    "size": 120,
+    "color": "Black",
+    "rpm": [500, 1800],
+    "airflow": 83.87,
+    "noise_level": [15.3, 34.8],
+    "pwm": true,
+    "rating": 4,
+    "rating_count": 66,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/930ec1586ac762a5980280a67c6ddaab.256p.jpg",
+    "id": 53,
+    "category": "fan",
+    "discount_percentage": 20,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "APNX FP2 83.87 CFM 120 mm Fan",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/930ec1586ac762a5980280a67c6ddaab.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "APNX",
+      "model": "FP2 83.87 CFM",
+      "Controller": "None",
+      "Static_pressure": "3.49 mmH₂O"
+    }
+  },
+  {
+    "name": "Phanteks M25-140 PWM D-RGB",
+    "price": 21.43,
+    "size": 140,
+    "color": "White",
+    "rpm": [500, 1800],
+    "airflow": 104.62,
+    "noise_level": 36.57,
+    "pwm": true,
+    "rating": 4,
+    "rating_count": 45,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/65f3c4b0b0958fe74f459b9c27583ccd.256p.jpg",
+    "id": 54,
+    "category": "fan",
+    "discount_percentage": 20,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Phanteks M25\u002D140 PWM D\u002DRGB 104.62 CFM 140 mm Fan",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/65f3c4b0b0958fe74f459b9c27583ccd.256p.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/df69bd8b79005a6ffcbe1906e672ff47.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Phanteks",
+      "model": "M25-140 PWM D-RGB",
+      "Controller": "None",
+      "Static_pressure": "2.8 mmH₂O"
+    }
+  },
+  {
+    "name": "Scythe Kaze Flex II Slim",
+    "price": 16.95,
+    "size": 120,
+    "color": "Black",
+    "rpm": [300, 1800],
+    "airflow": [8.16, 48],
+    "noise_level": [2.58, 27.8],
+    "pwm": true,
+    "rating": 3,
+    "rating_count": 33,
+    "image": "https://m.media-amazon.com/images/I/41Fc12KLx4L.jpg",
+    "id": 55,
+    "category": "fan",
+    "discount_percentage": 30,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Scythe Kaze Flex II Slim 48 CFM 120 mm Fan",
+    "thumb-images": [
+      "https://m.media-amazon.com/images/I/41Fc12KLx4L.jpg",
+      "https://m.media-amazon.com/images/I/41FGwmmarxL.jpg",
+      "https://m.media-amazon.com/images/I/41+S5HFulcL.jpg",
+      "https://m.media-amazon.com/images/I/41OjcYC2UAL.jpg",
+      "https://m.media-amazon.com/images/I/21HKBvtHz7L.jpg",
+      "https://m.media-amazon.com/images/I/31nX00Ez7ML.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Scythe",
+      "model": "Kaze Flex II Slim",
+      "Controller": "None",
+      "Static_pressure": "1.36 mmH₂O"
+    }
+  },
+  {
+    "name": "Asus ROG STRIX GAMING OC",
+    "price": 2655.04,
+    "chipset": "GeForce RTX 4090",
+    "memory": 24,
+    "core_clock": 2235,
+    "boost_clock": 2640,
+    "color": "Black",
+    "length": 358,
+    "rating": 4,
+    "rating_count": 12,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/9f7b45a2816c45ea9449e8ca2bf6f616.256p.jpg",
+    "id": 56,
+    "category": "gpu",
+    "discount_percentage": 30,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Asus ROG STRIX GAMING OC GeForce RTX 4090 24 GB Video Card",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/9f7b45a2816c45ea9449e8ca2bf6f616.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Asus",
+      "model": "ROG STRIX GAMING OC",
+      "Interface": "PCIe x16"
+    }
+  },
+  {
+    "name": "NVIDIA Founders Edition",
+    "price": 2698.99,
+    "chipset": "GeForce RTX 4090",
+    "memory": 24,
+    "core_clock": 2230,
+    "boost_clock": 2520,
+    "color": "Black / Silver",
+    "length": 304,
+    "rating": 3,
+    "rating_count": 33,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/07ff8dc03a65e34edc811c97d838af9a.256p.jpg",
+    "id": 57,
+    "category": "gpu",
+    "discount_percentage": 5,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "NVIDIA Founders Edition GeForce RTX 4090 24 GB Video Card",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/07ff8dc03a65e34edc811c97d838af9a.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "NVIDIA ",
+      "model": "GeForce RTX",
+      "Interface": "PCIe x16"
+    }
+  },
+  {
+    "name": "XFX Speedster SWFT 319",
+    "price": 389.99,
+    "chipset": "Radeon RX 6800",
+    "memory": 16,
+    "core_clock": 1700,
+    "boost_clock": 2105,
+    "color": "Black",
+    "length": 340,
+    "rating": 4,
+    "rating_count": 17,
+    "image": "https://m.media-amazon.com/images/I/31Y4vrPI-+L.jpg",
+    "id": 58,
+    "category": "gpu",
+    "discount_percentage": 18,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "XFX Speedster SWFT 319 Radeon RX 6800 16 GB Video Card",
+    "thumb-images": [
+      "https://m.media-amazon.com/images/I/41aCdMMAvYL.jpg",
+      "https://m.media-amazon.com/images/I/31Y4vrPI-+L.jpg",
+      "https://m.media-amazon.com/images/I/41I6uWJP66L.jpg",
+      "https://m.media-amazon.com/images/I/31mcfPIo65L.jpg",
+      "https://m.media-amazon.com/images/I/31v6HUQGo8L.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "XFX",
+      "model": "Speedster SWFT 319",
+      "Interface": "PCIe x16"
+    }
+  },
+  {
+    "name": "Gigabyte EAGLE OC",
+    "price": 1466.59,
+    "chipset": "GeForce RTX 4080",
+    "memory": 16,
+    "core_clock": 2205,
+    "boost_clock": 2520,
+    "color": "Black",
+    "length": 342,
+    "rating": 5,
+    "rating_count": 2,
+    "image": "https://m.media-amazon.com/images/I/41kPbid2wiL.jpg",
+    "id": 59,
+    "category": "gpu",
+    "discount_percentage": 18,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Gigabyte EAGLE OC GeForce RTX 4080 16 GB Video Card",
+    "thumb-images": [
+      "https://m.media-amazon.com/images/I/41kPbid2wiL.jpg",
+      "https://m.media-amazon.com/images/I/41+rjAJVRtL.jpg",
+      "https://m.media-amazon.com/images/I/41kgpXhqXAL.jpg",
+      "https://m.media-amazon.com/images/I/31Q9MtEA16L.jpg",
+      "https://m.media-amazon.com/images/I/31e6HSaV-GL.jpg",
+      "https://m.media-amazon.com/images/I/319PkIxeylL.jpg",
+      "//cdna.pcpartpicker.com/static/forever/images/product/3ccf7acffdab21f8765ec7b456641593.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Gigabyte",
+      "model": "EAGLE OC",
+      "Interface": "PCIe x16"
+    }
+  },
+  {
+    "name": "Asus DUAL OC",
+    "price": 592.7,
+    "chipset": "GeForce RTX 4070",
+    "memory": 12,
+    "core_clock": 2520,
+    "boost_clock": 2550,
+    "color": "Black",
+    "length": 267,
+    "rating": 4,
+    "rating_count": 217,
+    "image": "//cdna.pcpartpicker.com/static/forever/images/product/704d58fa45fdd33c35495cbc1dcbac18.256p.jpg",
+    "id": 60,
+    "category": "gpu",
+    "discount_percentage": 10,
+    "state": "new",
+    "owner": "pcpartpicker",
+    "title": "Asus DUAL OC GeForce RTX 4070 12 GB Video Card",
+    "thumb-images": [
+      "//cdna.pcpartpicker.com/static/forever/images/product/704d58fa45fdd33c35495cbc1dcbac18.256p.jpg"
+    ],
+    "specifications": {
+      "manufacturer": "Asus",
+      "model": "DUAL OC",
+      "Interface": "PCIe x16"
+    }
+  }
+]

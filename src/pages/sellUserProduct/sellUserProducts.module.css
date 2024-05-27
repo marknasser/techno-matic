@@ -1,0 +1,144 @@
+.userSell_from {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 80px;
+  padding-top: 0;
+}
+.input_warper,
+.select_warper,
+.textarea_warper {
+  display: flex;
+  width: 40vw;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 25px;
+  border: solid 1px #ffffff91;
+  transition: all ease-in-out 2s;
+}
+.input_warper:hover {
+  width: 45vw;
+}
+.input_warper label,
+.select_warper label,
+.textarea_warper label {
+  width: 25%;
+  background-color: rgb(200, 112, 101);
+  padding: 3px;
+  border-radius: 25px;
+  text-align: center;
+  color: #fff;
+  font-size: 1.2rem;
+  transition: all 1.5s;
+}
+
+.input_warper input {
+  width: 75%;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 3px 20px;
+  color: rgb(200, 112, 101);
+  font-size: 1.2rem;
+}
+.select_warper select {
+  width: 75%;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 3px 20px;
+  color: rgb(200, 112, 101);
+  font-size: 1.2rem;
+}
+.select_warper select option {
+  color: rgb(200, 112, 101);
+}
+.sec_container button {
+  color: rgb(200, 112, 101);
+  background-color: #fff;
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: solid 2px rgb(200, 112, 101);
+  transition: all 0.8s;
+}
+.sec_container button:hover {
+  color: #fff;
+  background-color: rgb(200, 112, 101);
+  border: solid 2px transparent;
+}
+.textarea_warper {
+  height: 200px;
+}
+.textarea_warper label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.textarea_warper textarea {
+  width: 75%;
+  background: transparent;
+  color: rgb(200, 112, 101);
+  border: none;
+  outline: none;
+  resize: none;
+  padding: 3px 20px;
+}
+.input_warper span {
+  color: rgb(200, 112, 101);
+  font-size: 1.2rem;
+  margin-right: 3px;
+}
+
+textarea::-webkit-scrollbar {
+  width: 12px;
+}
+
+textarea::-webkit-scrollbar-track {
+  background: #7d5b5b;
+  border-radius: 6px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background-color: rgb(151, 112, 106);
+  border-radius: 6px;
+}
+
+textarea::-webkit-scrollbar-thumb:hover {
+  background: #370f0f;
+}
+
+.errorLabel {
+  background-color: #e53030 !important;
+  color: #fff !important;
+}
+
+@media screen and (max-width: 1024px) {
+  .input_warper,
+  .select_warper,
+  .textarea_warper {
+    width: 60vw;
+  }
+  .input_warper:hover {
+    width: 65vw;
+  }
+}
+@media screen and (max-width: 768px) {
+  .input_warper,
+  .select_warper,
+  .textarea_warper {
+    width: 80vw;
+  }
+  .input_warper:hover {
+    width: 85vw;
+  }
+  .input_warper label,
+  .select_warper label,
+  .textarea_warper label {
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

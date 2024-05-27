@@ -1,0 +1,32 @@
+.about_brief {
+  margin-left: -200px;
+  margin-top: 40px;
+  min-height: 350px;
+  padding: 40px 30px 30px 40px;
+  background: #f6f6f6;
+  position: relative;
+}
+.about_photo {
+  width: 100%;
+}
+.about_img {
+  clip-path: polygon(0 0, 80% 0, 99% 100%, 0% 100%);
+  vertical-align: middle;
+}
+.about_brief_container p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 20px;
+}
+@media (max-width: 768px) {
+  .about_brief {
+    margin: 0px;
+    min-height: 350px;
+    padding: 40px 30px 30px 40px;
+    background: #f6f6f6;
+    position: relative;
+  }
+  .about_img {
+    display: none;
+  }
+}

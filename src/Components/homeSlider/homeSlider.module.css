@@ -1,0 +1,28 @@
+.productList_container {
+  height: fit-content;
+  padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.productList_title {
+  font-size: 3rem;
+  margin-bottom: 40px;
+  font-weight: 900;
+  text-transform: uppercase;
+  user-select: none;
+}
+@media (max-width: 524px) {
+  .productList_title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.productList_container p {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 1.2rem;
+}
